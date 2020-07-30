@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "185505297021",
+    "firebase_url": "https://duck-72f88.firebaseio.com",
+    "project_id": "duck-72f88",
+    "storage_bucket": "duck-72f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185505297021:android:e9dab4c8094ba5a1623714",
+        "android_client_info": {
+          "package_name": "com.example.dyck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185505297021-o02a5ioduqo79d93n9bccmuo7a838k71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJjW14qzZKW5WuUQ7t69hURRvujjvhgcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185505297021-o02a5ioduqo79d93n9bccmuo7a838k71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
